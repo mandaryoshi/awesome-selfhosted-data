@@ -1,0 +1,21 @@
+# software name
+name: "Excalidraw"
+# URL of the software project's homepage
+website_url: "https://docs.excalidraw.com/docs"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/excalidraw/excalidraw"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "A virtual hand-drawn style whiteboard."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Nodejs
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Note-taking & Editors
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+# (optional) link to an interactive demo of the software
+demo_url: "https://excalidraw.com/"
